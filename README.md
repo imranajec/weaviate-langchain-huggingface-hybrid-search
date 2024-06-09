@@ -1,0 +1,1 @@
+# weaviate-langchain-huggingface-hybrid-search
